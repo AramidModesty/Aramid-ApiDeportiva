@@ -1091,24 +1091,13 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
-          "SportsLeague.Domain": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "compile": {
           "bin/placeholder/SportsLeague.DataAccess.dll": {}
         },
         "runtime": {
           "bin/placeholder/SportsLeague.DataAccess.dll": {}
-        }
-      },
-      "SportsLeague.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "compile": {
-          "bin/placeholder/SportsLeague.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SportsLeague.Domain.dll": {}
         }
       }
     }
@@ -2866,11 +2855,6 @@
       "type": "project",
       "path": "../SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
       "msbuildProject": "../SportsLeague.DataAccess/SportsLeague.DataAccess.csproj"
-    },
-    "SportsLeague.Domain/1.0.0": {
-      "type": "project",
-      "path": "../SportsLeague.Domain/SportsLeague.Domain.csproj",
-      "msbuildProject": "../SportsLeague.Domain/SportsLeague.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2879,7 +2863,6 @@
       "Microsoft.AspNetCore.OpenApi >= 10.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.*",
       "SportsLeague.DataAccess >= 1.0.0",
-      "SportsLeague.Domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 10.2.3"
     ]
   },
@@ -2911,9 +2894,6 @@
           "projectReferences": {
             "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj": {
               "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj"
-            },
-            "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj": {
-              "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj"
             }
           }
         }
