@@ -1,0 +1,12 @@
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/bin/Debug/net10.0/SportsLeague.Domain.deps.json
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/bin/Debug/net10.0/SportsLeague.Domain.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/bin/Debug/net10.0/SportsLeague.Domain.pdb
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.csproj.AssemblyReference.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.AssemblyInfoInputs.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.AssemblyInfo.cs
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.csproj.CoreCompileInputs.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/refint/SportsLeague.Domain.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/SportsLeague.Domain.pdb
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/Debug/net10.0/ref/SportsLeague.Domain.dll
