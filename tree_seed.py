@@ -27,12 +27,8 @@ def folder_order(text,
                 deepness=deepness-1
             intentSymbol_quantity=0
             if(word!=""):
-                order = order+"\n"
-                if(word.find('.')==-1):
-                    order = "mkdir "+ word
-                    prevWord = word
-                else:
-                    order = "touch "+ word
+                order = order+"\n"+"mkdir "+word
+                prevWord = word
             word=""
             if(i==len(text)-1 and deepness>0):
                 for i in range(deepness):
@@ -50,17 +46,16 @@ def folder_order(text,
         else:
             word=word+text[i]
     return order
-
+text="""
+SportsLeague.Domain/
+├── Entities/
+├── Enums/
+├── Interfaces/
+│   ├── Repositories/
+│   └── Services/
+└── Services/
+"""
 if __name__=="__main__":
-    text="""
-    SportsLeague.Domain/
-    ├── Entities/
-    ├── Enums/
-    ├── Interfaces/
-    │   ├── Repositories/
-    │   └── Services/
-    └── Services/
-    """
     intentSymbol=[' ','─','└','├','│']
     special_allow_chars=['.','\n']
     ignore_chars=[char for char in char_catch(text)

@@ -1,0 +1,17 @@
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/bin/Debug/net10.0/SportsLeague.DataAccess.deps.json
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/bin/Debug/net10.0/SportsLeague.DataAccess.runtimeconfig.json
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/bin/Debug/net10.0/SportsLeague.DataAccess.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/bin/Debug/net10.0/SportsLeague.DataAccess.pdb
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/bin/Debug/net10.0/SportsLeague.Domain.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/bin/Debug/net10.0/SportsLeague.Domain.pdb
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.csproj.AssemblyReference.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.AssemblyInfoInputs.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.AssemblyInfo.cs
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.csproj.CoreCompileInputs.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLe.95752F64.Up2Date
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/refint/SportsLeague.DataAccess.dll
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.pdb
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/SportsLeague.DataAccess.genruntimeconfig.cache
+/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/Debug/net10.0/ref/SportsLeague.DataAccess.dll
