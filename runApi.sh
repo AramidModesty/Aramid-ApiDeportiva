@@ -1,14 +1,14 @@
-#This is considering you're standing in SportsLeague
+#Document made by Aramid
+#This is considering you're standing in golBet
 #The database configuration can be found in:
-#SportsLeague.API/appsettings.json
+#golBet.API/appsettings.json
 #and is preconfigured to password mode with sqlServer
-cd SportsLeague
 
 #The running configurations are found in:
-##SportsLeague.API/Properties/launchSettings.json
+##golBet.API/Properties/launchSettings.json
 ###You can change the ports of execution there too
-cd SportsLeague.API
+cd golBet.API
 dotnet run
 
-#If in terminal, put yourself in the SportsLeagueFolder
+#If in terminal, put yourself in the golBetFolder
 ##Then run the things of this folder
