@@ -6,6 +6,10 @@ namespace GolBet.Entities
 {
     public class Bet : AuditableEntity
     {
+        /*
+            This is the validation process for c# in dotnet projects and will not be found in other programming languages
+        */
+        
         [Column(TypeName = "decimal(12,2)")]
         public decimal Amount { get; set; }
 
