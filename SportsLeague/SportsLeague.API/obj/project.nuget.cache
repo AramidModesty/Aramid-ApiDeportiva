@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0xbuQoY+0U=",
+  "dgSpecHash": "XDrh6UO1Sko=",
   "success": true,
-  "projectFilePath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
+  "projectFilePath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
   "expectedPackageFiles": [
     "/home/aramid/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/aramid/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -64,9 +64,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
+      "projectPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
       "warningLevel": 1,
-      "filePath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
+      "filePath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net10.0"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj": {}
+    "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj": {}
   },
   "projects": {
-    "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj": {
+    "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
+        "projectUniqueName": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
         "projectName": "SportsLeague.API",
-        "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
+        "projectPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/SportsLeague.API.csproj",
         "packagesPath": "/home/aramid/.nuget/packages/",
-        "outputPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.API/obj/",
+        "outputPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aramid/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj": {
-                "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj"
+              "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj": {
+                "projectPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj"
               }
             }
           }
@@ -505,14 +505,14 @@
         }
       }
     },
-    "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj": {
+    "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
+        "projectUniqueName": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
         "projectName": "SportsLeague.DataAccess",
-        "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
+        "projectPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
         "packagesPath": "/home/aramid/.nuget/packages/",
-        "outputPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/obj/",
+        "outputPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aramid/.nuget/NuGet/NuGet.Config"

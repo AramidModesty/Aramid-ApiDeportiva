@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p9SwfMATgIQ=",
+  "dgSpecHash": "kg7vhPZxJEE=",
   "success": true,
-  "projectFilePath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
+  "projectFilePath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.DataAccess/SportsLeague.DataAccess.csproj",
   "expectedPackageFiles": [
     "/home/aramid/.nuget/packages/azure.core/1.41.0/azure.core.1.41.0.nupkg.sha512",
     "/home/aramid/.nuget/packages/azure.identity/1.12.1/azure.identity.1.12.1.nupkg.sha512",

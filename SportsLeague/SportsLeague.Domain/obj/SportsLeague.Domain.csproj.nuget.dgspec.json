@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj": {}
+    "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj": {}
   },
   "projects": {
-    "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj": {
+    "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj",
+        "projectUniqueName": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj",
         "projectName": "SportsLeague.Domain",
-        "projectPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj",
+        "projectPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.Domain/SportsLeague.Domain.csproj",
         "packagesPath": "/home/aramid/.nuget/packages/",
-        "outputPath": "/home/aramid/Proyectos/SoftwareDesign/myLeague/SportsLeague/SportsLeague.Domain/obj/",
+        "outputPath": "/home/aramid/Proyectos/ITM/diseñoDeSoftware/myLeague/SportsLeague/SportsLeague.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aramid/.nuget/NuGet/NuGet.Config"
