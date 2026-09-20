@@ -12,3 +12,5 @@ dotnet run
 
 #If in terminal, put yourself in the SportsLeagueFolder
 ##Then run the things of this folder
+
+#Don't forget to upgrade your dotnet to run
