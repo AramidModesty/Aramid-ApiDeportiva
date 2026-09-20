@@ -1,4 +1,4 @@
-#This is considering you're standing in SportsLeague
+#This is considering you're standing in SportsLeague parent folder
 #The database configuration can be found in:
 #SportsLeague.API/appsettings.json
 #and is preconfigured to password mode with sqlServer
