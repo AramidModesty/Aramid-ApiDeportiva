@@ -47,13 +47,19 @@ def folder_order(text,
             word=word+text[i]
     return order
 text="""
-SportsLeague.Domain/
-├── Entities/
+GolBet.Entities/
+├── Common/
+│   └── AuditableEntity.cs
 ├── Enums/
-├── Interfaces/
-│   ├── Repositories/
-│   └── Services/
-└── Services/
+│   ├── MatchStatus.cs
+│   ├── BetPick.cs
+│   └── BetStatus.cs
+├── Team.cs
+├── Match.cs
+└── Bet.cs
+GolBet.Repositories/
+└── Data/
+    └── AppDbContext.cs
 """
 if __name__=="__main__":
     intentSymbol=[' ','─','└','├','│']
