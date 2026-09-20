@@ -1,7 +1,6 @@
+#In progress. It should save me time if I manage to connect it with the python thing
 mkdir GolBet
 cd GolBet
-dotnet new sln -n SportsLeague
-
 mkdir GolBet.Entities
 cd GolBet.Entities
 mkdir Common
