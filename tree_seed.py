@@ -9,10 +9,10 @@ def char_catch(text:str)->list: #retorna los caracteres unicos de un texto
              a.append(i)
      return a
 def folder_order(text,
-    ignore_chars:list[chr], #Caracteres, letras, o simbolos a ignorar
+    ignore_chars:list, #Caracteres, letras, o simbolos a ignorar
     intentSensibility:int=3, #sensibilidad por simbolo bloque, bloque=intentSymbol_quantity//intentSensibility
-    intentSymbol:list[chr]=[' '], #simbolo de bloque de carpeta hija
-    endSymbol:list[chr]=['\n','#','/']
+    intentSymbol:list=[' '], #simbolo de bloque de carpeta hija
+    endSymbol:list=['\n','#','/']
     )->str: #Retorna conjunto de instrucciones para crear arboles.
     if(any(symbol in ignore_chars for symbol in intentSymbol)):
         raise Exception("Simbolo de separacion en ignorar")
@@ -62,8 +62,6 @@ def folder_order(text,
     return order
 def execute(order:str): #Ejecuta la orden en el sistema
     import subprocess #Remplazo de la funcion os.system(order)
-    from dotenv import load_dotenv
-    load_dotenv()
     subprocess.run(order)
 
 def loadTextFrom(file):
