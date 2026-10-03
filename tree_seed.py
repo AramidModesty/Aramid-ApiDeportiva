@@ -61,10 +61,11 @@ def folder_order(text,
             word=word+text[i]
     return order
 def execute(order:str): #Ejecuta la orden en el sistema
-    import os
+    import subprocess #Remplazo de la funcion os.system(order)
     from dotenv import load_dotenv
     load_dotenv()
-    os.system(order)
+    subprocess.run(order)
+
 def loadTextFrom(file):
     file=open(file,'r')
     return file.read(-1)#retorna todo el texto
@@ -78,7 +79,7 @@ if __name__=="__main__":
                 and char not in intentSymbol
                 ]
     print("Los siguientes caracteres son ignorados:\n",ignore_chars)
-    endsymbol=['\n','#','/']
+    endsymbol=['\n','#','/','(']
     order=folder_order(
             text,
             ignore_chars,

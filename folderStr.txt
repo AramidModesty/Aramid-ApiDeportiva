@@ -1,16 +1,1 @@
-frontend/
- ├── src/
- │   ├── api/            # Comunicación con backend (Axios / Fetch)
- │   ├── auth/           # Lógica de autenticación y guards
- │   ├── components/     # Componentes reutilizables (UI)
- │   ├── pages/          # Vistas principales (screens)
- │   ├── layouts/        # Layouts base (Dashboard, Auth)
- │   ├── hooks/          # Custom hooks
- │   ├── context/        # Context API / State global
- │   ├── services/       # Lógica de negocio frontend
- │   ├── routes/         # Definición de rutas protegidas
- │   ├── utils/          # Funciones auxiliares
- │   ├── styles/         # Estilos globales
- │   └── main.tsx
- └── package.json
 
